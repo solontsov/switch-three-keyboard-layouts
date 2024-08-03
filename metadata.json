@@ -1,0 +1,9 @@
+{
+  "name": "Switch to one of three keyboard layouts",
+  "description": "Switch to one of three keyboard layouts",
+  "uuid": "switch-three-keyboard-layouts",
+  "shell-version": [
+    "46"
+  ]
+}
+
